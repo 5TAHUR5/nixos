@@ -10,5 +10,7 @@
     ./user.nix
     ./plasma.nix
     ./throne.nix
+    ./bluetooth.nix
+    ./hypland.nix
   ];
 }

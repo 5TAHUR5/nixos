@@ -10,6 +10,21 @@
     imv
     mpv
     obs-studio
+    rofi
+    wofi
+    hyprland
+    waybar
+    swaybg
+    swayidle
+    swaylock
+    swww
+    wl-clipboard
+    wl-paste
+    wlroots
+    alacritty
+    hyprpicker
+    hyprpaper
+    hyprshot
     obsidian
     pavucontrol
     teams-for-linux
