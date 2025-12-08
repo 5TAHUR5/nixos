@@ -19,7 +19,6 @@
     swaylock
     swww
     wl-clipboard
-    wl-paste
     wlroots
     alacritty
     hyprpicker
