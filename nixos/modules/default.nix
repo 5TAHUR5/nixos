@@ -11,6 +11,7 @@
     ./plasma.nix
     ./throne.nix
     ./bluetooth.nix
-    ./hypland.nix
+    ./hyprland.nix
+    ./sudo-rs.nix
   ];
 }
