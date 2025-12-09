@@ -13,5 +13,6 @@
     ./bluetooth.nix
     ./hyprland.nix
     ./sudo-rs.nix
+    ./fonts.nix
   ];
 }

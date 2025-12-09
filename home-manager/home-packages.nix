@@ -19,6 +19,7 @@
     swaylock
     swww
     wl-clipboard
+    awesome
     wlroots
     alacritty
     hyprpicker
@@ -37,6 +38,13 @@
     git
     zapret
     fastfetch
+
+    brightnessctl
+    playerctl
+    imagemagick
+    xclip
+    rofi
+    feh
 
     # CLI utils
     bc
