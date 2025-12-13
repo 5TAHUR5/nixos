@@ -5,7 +5,6 @@
     # Packages in each category are sorted alphabetically
 
     # Desktop apps
-    spotifyd
     anki
     code-cursor
     imv
