@@ -14,5 +14,6 @@
     ./hyprland.nix
     ./sudo-rs.nix
     ./fonts.nix
+    ./zapret.nix
   ];
 }

@@ -21,5 +21,5 @@
     layout = "us";
     variant = "";
   };
-
+  zapret.enable = true;
 }
