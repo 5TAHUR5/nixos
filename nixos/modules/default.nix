@@ -15,5 +15,6 @@
     ./sudo-rs.nix
     ./fonts.nix
     ./zapret.nix
+    ./spotify.nix
   ];
 }

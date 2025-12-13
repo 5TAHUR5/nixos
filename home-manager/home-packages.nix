@@ -5,7 +5,6 @@
     # Packages in each category are sorted alphabetically
 
     # Desktop apps
-    spotify
     spotifyd
     anki
     code-cursor
