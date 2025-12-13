@@ -5,6 +5,8 @@
     # Packages in each category are sorted alphabetically
 
     # Desktop apps
+    spotify
+    spotifyd
     anki
     code-cursor
     imv
@@ -47,6 +49,9 @@
     feh
 
     # CLI utils
+    spicetify-cli
+    bat 
+    lsd
     bc
     bottom
     brightnessctl
